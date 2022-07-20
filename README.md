@@ -12,7 +12,7 @@ LiDAR is an advanced radar system used by self-driving cars. It is one of the mo
 
 Given 3D LiDar data points, our goal is to predict how many cars are around our self-driving vehicle.
 
-The challenge is to use the 3D car lidar features from the dataset to build an automated algorithm to predict how many vehicles were there in the lidar range; in machine learning terms: this is a regression task.
+The [challenge](https://www.aicrowd.com/challenges/ai-blitz-xi/problems/lidar-car-detection) is to use the 3D car lidar features from the dataset to build an automated algorithm to predict how many vehicles were there in the lidar range; in machine learning terms: this is a regression task.
 
 ### **Dataset**
 
